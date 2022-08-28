@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "work.glos",
+      "sha256_cert_fingerprints":
+      ["48:34:23:AA:FA:34:DE:F4:86:B8:3B:9F:26:33:A7:42:01:4C:30:4D:B5:21:C8:AD:FF:07:E8:40:96:7E:0B:E9"]
+    }
+  }]

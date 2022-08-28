@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "Q27GFNK683.com.AppName”,
+      "paths": ["*"]
+    }
+    ]
+  }
+}
